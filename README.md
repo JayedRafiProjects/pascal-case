@@ -5,5 +5,6 @@
 <p>I made this project while I was working on a work project, which required populating data on a web database and needed to use this naming convention for more than 300+ pages! So why not solve a real-life problem with the automation skill I have! The surprising thing is only because of these few lines of code, I completed the project on time.</p>
 <p>
 <br/>
+<p><strong>Example:</strong><p>
 <p><strong>Input: </strong>heLLo mY NaMe Is JaYEd!</p>
 <p><strong>Output: </strong>Hello My Name Is Jayed!</p>
