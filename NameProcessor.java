@@ -1,15 +1,15 @@
 /*******************************
  * 
- * Project name: Name Processor
+ * Project: Pascal case for usual text
  * Language: Java
- * Creator: Jayed Rafi
  * Date: June 2021
- * URL: http://jayedrafi.com/name-processor/
  * 
+ * Dev: Jayed Rafi
+ *
 *******************************/
 
 import java.util.Scanner; //importing scanner
-public class NameProcessor {
+public class PascalCase {
     public static void main(String args[]) {
       
       Scanner scan = new Scanner(System.in);
