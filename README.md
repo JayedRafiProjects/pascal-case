@@ -6,5 +6,5 @@
 <p>
 <br/>
 <p><strong>Example:</strong><p>
-<p>&nbsp;<strong>Input: </strong>heLLo mY NaMe Is JaYEd!</p>
-<p>&nbsp;<strong>Output: </strong>Hello My Name Is Jayed!</p>
+<p>&nbsp;&nbsp;&nbsp;<strong>Input: </strong>heLLo mY NaMe Is JaYEd!</p>
+<p>&nbsp;&nbsp;&nbsp;<strong>Output: </strong>Hello My Name Is Jayed!</p>
